@@ -6,11 +6,9 @@
 <a href="https://www.linkedin.com/in/matthew-bakalian/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
-### - ⚡Electrical Engineer⚡
+###  ⚡Electrical Engineer⚡
 <!-- <img alt="Electrik Engeer" src="Assets/bridgeGif.gif"> </img>   -->
 
 <img hight="400" width="500" alt="GIF" align="right" src="Assets/bridgeGif.gif">
-
-
   - ⚡ Switch mode power supplies
   - ⚡ AC / DC Converters
