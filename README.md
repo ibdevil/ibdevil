@@ -12,4 +12,5 @@
   
   
   - ⚡ Switch mode power supplies
-  - ⚡ AC / DC Converters
+  - ⚡ High voltage systems
+  - ⚡ Electricity go brrrrrrr
