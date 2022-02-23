@@ -7,4 +7,8 @@
 </div>
 
 ### ⚡Electrical Engineer⚡
-<img alt="Electrik Engeer" src="Assets/bridgeGif.gif"> </img>  
+<!-- <img alt="Electrik Engeer" src="Assets/bridgeGif.gif"> </img>   -->
+
+<img hight="400" width="500" alt="GIF" align="right" src="Assets/bridgeGif.gif">
+- ⚡ Switch mode power supplies
+- ⚡ AC / DC Converters
