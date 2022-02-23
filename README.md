@@ -1,4 +1,4 @@
-<img style="height:20" alt="banner" src="./TreeFamily.png"/>
+<img style="height:20" alt="banner" src="Assets/TreeFamily.png"/>
 
 ***
 <div align="center">
@@ -7,4 +7,4 @@
 </div>
 
 ### ⚡Electrical Engineer⚡
-  
+<img alt="Electrik Engeer" src="Assets/bridgeGif.gif"> </img>  
