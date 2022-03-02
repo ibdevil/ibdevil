@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/matthew-bakalian/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
-<h2> ###  ⚡Electrical Engineer⚡
+<h2> ⚡Electrical Engineer⚡
 
 <img hight="400" width="500" alt="GIF" align="right" src="Assets/bridgeGif.gif">
   
