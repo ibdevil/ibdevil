@@ -15,7 +15,7 @@
   - ⚡ High voltage systems
   - ⚡ Electricity go brrrrrrr
 
-  
+</p>  
 <br>
 <img hight="400" width="500" alt="GIF" align="left" src="Assets/sanik.png">
 
