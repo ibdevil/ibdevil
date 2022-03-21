@@ -2,8 +2,8 @@
 
 ***
 <div align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
 <h2> ⚡Electrical Engineer⚡
